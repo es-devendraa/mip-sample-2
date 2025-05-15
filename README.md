@@ -1,3 +1,6 @@
+UI images - Header
+![Screenshot](assets/images/Screenshot4.png)
+
 UI images - Catalog section
 ![Screenshot](assets/images/Screenshot1.png)
 
