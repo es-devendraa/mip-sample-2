@@ -1,8 +1,8 @@
-UI images
-![Screenshot](assets/images/Screenshot 2025-05-15 175507.png)
+UI images - Catalog section
+![Screenshot](assets/images/Screenshot1.png)
 
-UI images
-![Screenshot](assets/images/Screenshot 2025-05-15 175528.png)
+UI images - offers
+![Screenshot](assets/images/Screenshot2.png)
 
-UI images
-![Screenshot](assets/images/Screenshot 2025-05-15 175546.png)
+UI images - Footer
+![Screenshot](assets/images/Screenshot3.png)
